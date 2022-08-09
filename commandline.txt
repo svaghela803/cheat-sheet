@@ -43,4 +43,7 @@ e.g. git commit -m "add fact"
 
 5. git log = shows history of what has happened in the repository
 
+6. git revert = undo a specific command 
+
+
 
