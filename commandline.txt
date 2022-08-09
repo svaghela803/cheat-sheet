@@ -49,4 +49,6 @@ e.g. git commit -m "add fact"
 
 8. git push = used to upload from one repository to the other
 
+9. git clone = creates a copy of a repository hosted on GitHub so it can be shared
+
 
