@@ -45,5 +45,8 @@ e.g. git commit -m "add fact"
 
 6. git revert = undo a specific command 
 
+7. git remote = links local repository to Github 
+
+
 
 
