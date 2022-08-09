@@ -35,3 +35,10 @@ Git commands
 
 3. git status = Gives update of files
 
+4. git commit = saves a record of file and gives details of what has changed
+
+- m = provides extra information, a 'message' on which files have changed 
+
+e.g. git commit -m "add fact"
+
+
