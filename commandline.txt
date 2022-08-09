@@ -1,0 +1,9 @@
+Command-Line Cheat Sheet
+
+1. pwd
+pwd = print working directory
+Finds out which folder you are currently in e.g.
+
+pwd 
+# /Users/yourusername
+
