@@ -20,4 +20,6 @@ Cd = change directory
 
 6. clear = clears the command window 
 
+7. rm = deletes file 
+
 
