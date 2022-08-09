@@ -30,3 +30,6 @@ Cd = change directory
 Git commands
 
 1. git init = initialises and sets up git 
+
+2. git add (file name) = tells Git to start tracking file 
+
