@@ -7,9 +7,14 @@ Finds out which folder you are currently in e.g.
 pwd 
 # /Users/yourusername
 
-2. 2. ls
+2. ls
 ls = lists all files and folders 
 
 3. ls -a
 ls -a = lists all files including hidden files
+
+4. cd
+Cd = change directory
+
+
 
