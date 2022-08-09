@@ -47,6 +47,6 @@ e.g. git commit -m "add fact"
 
 7. git remote = links local repository to Github 
 
-
+8. git push = used to upload from one repository to the other
 
 
