@@ -22,4 +22,7 @@ Cd = change directory
 
 7. rm = deletes file 
 
+8. touch = creates file and updates file access
+
+
 
