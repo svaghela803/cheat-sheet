@@ -1,5 +1,7 @@
 Command-Line Cheat Sheet
 
+Terminal commands
+
 1. pwd
 pwd = print working directory
 Finds out which folder you are currently in e.g.
@@ -25,4 +27,6 @@ Cd = change directory
 8. touch = creates file and updates file access
 
 
+Git commands
 
+1. git init = initialises and sets up git 
