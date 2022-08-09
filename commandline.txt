@@ -16,5 +16,5 @@ ls -a = lists all files including hidden files
 4. cd
 Cd = change directory
 
-
+5. mkdir = creates new directory
 
