@@ -33,3 +33,5 @@ Git commands
 
 2. git add (file name) = tells Git to start tracking file 
 
+3. git status = Gives update of files
+
